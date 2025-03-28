@@ -36,6 +36,11 @@ yarn install
 yarn run local
 ```
 
+或者用npm
+
+```shell
+npm run start
+```
 
 
 ## 测试环境
